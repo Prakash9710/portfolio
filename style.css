@@ -20,7 +20,7 @@ body {
 header {
   height: 100vh;
   padding: 36px 100px;
-  background-image: url(asset/prakash_1-fotor-bg.png);
+  background-image: url(asset/newpic1.png);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -523,6 +523,12 @@ button {
   border: none;
   padding: 5px 10px;
   cursor: pointer;
+}
+
+/* Style for a non-underlined link */
+.no-underline-link {
+  text-decoration: none;
+  color: #000000; /* You can choose the color you prefer */
 }
 
 
